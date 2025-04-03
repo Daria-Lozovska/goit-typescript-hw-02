@@ -1,0 +1,8 @@
+.button {
+    margin: 20px auto;
+    display: block;
+}
+
+.button:hover {
+    background-color: #454749;
+}
